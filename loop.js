@@ -1,6 +1,12 @@
-let i=0
-for (;;){
+// let i=0
+// for (;i<11;){
+// console.log(i);
+// i++;
+// }
+let i =0;
+while (i<10) {
 console.log(i);
-i++;
-}
 
+i++;
+
+}
