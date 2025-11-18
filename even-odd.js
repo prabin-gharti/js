@@ -12,8 +12,8 @@ console.log(typeof(7+ '7'))
 console.log(("7" -5)  +("3"*2))
 console.log(8>>3)
 
-let g=3
-console.log(g--)
+let g="3"
+console.log(g++)
 // 01 -1
 // 10 -2
 // 11
